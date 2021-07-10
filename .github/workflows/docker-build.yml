@@ -2,9 +2,6 @@ name: build-python-helloworld
 
 on: [push]
 
-jobs:
-  job-build-python-helloworld:
-
 ## List the steps to be executed by the workflow
 jobs:
   ## Set the name of the job
